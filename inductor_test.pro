@@ -1,4 +1,4 @@
-update=7/9/2017 11:02:30 PM
+update=7/10/2017 12:04:02 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=w_connectors
 LibName31=myLib
 LibName32=w_device
+LibName33=switches

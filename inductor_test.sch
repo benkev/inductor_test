@@ -31,6 +31,7 @@ LIBS:valves
 LIBS:w_connectors
 LIBS:myLib
 LIBS:w_device
+LIBS:switches
 LIBS:inductor_test-cache
 EELAYER 25 0
 EELAYER END
